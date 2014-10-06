@@ -2,7 +2,6 @@ This is to create a Web Accessible Tinder App, which allows opportunities to
 filter prospects.
 
 #TODO:
-=
   *   Output to a data file so I can do data analysis later on
   *   Filter # of Likes 
     *   Highlight people with Specific Interests
